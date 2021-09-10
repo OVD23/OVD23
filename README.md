@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OVD23
-- 👀 I’m interested in software testing
+- 👀 I’m interested in Software testing
 - 🌱 I’m currently learning Junior QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me odvlive@gmail.com
